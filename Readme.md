@@ -7,6 +7,7 @@
 ./peer --period=6 --port=8081 --connect="127.0.0.1:8080"
 
 where period - integer
+
 connect only takes 1 argument
 
 messages are broadcast excluding the source of the message
